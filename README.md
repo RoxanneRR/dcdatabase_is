@@ -1,7 +1,7 @@
 # 序言
 本软件为粉丝向软件。
 
-专为美国DC漫画爱好者准备，用于爬取[dcdatabase](https://dc.fandom.com/wiki/DC_Comics_Database)上的角色出场数据，并求出多名角色在同一期刊出场的交集。
+专为美国漫画，DC漫画，超级英雄爱好者准备，用于爬取[dcdatabase](https://dc.fandom.com/wiki/DC_Comics_Database)上的角色出场数据，并求出多名角色在同一期刊出场的交集。
 
 (没错是作者补漫的时候顺路写的)
 
