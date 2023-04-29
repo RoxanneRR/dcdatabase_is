@@ -1,16 +1,17 @@
-# 序言
+# dcdatabase_is
 本软件为粉丝向软件。
 
-专为美国漫画，DC漫画，超级英雄爱好者准备，用于爬取[dcdatabase](https://dc.fandom.com/wiki/DC_Comics_Database)上的角色出场数据，并求出多名角色在同一期刊出场的交集。
+适用于美国漫画，DC漫画，超级英雄爱好者。用于爬取[dcdatabase](https://dc.fandom.com/wiki/DC_Comics_Database)上的角色出场数据，并求出多名角色在同一期刊出场的交集。
 
 (没错是作者补漫的时候顺路写的)
 
-打包为了exe，适合Windows用户
+使用Python3.7在Windows10上开发并简单打包为exe，未进行进一步测试
 
 # 使用方式
 双击exe即可使用
 
-![四个选项](https://tvax1.sinaimg.cn/large/008vOhrAly1hdg9vk9kqcj30hc058dgn.jpg)
+![四个选项](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgu9j1kifj30ie09nq4b.jpg)
+
 ①爬取dcdatabase的角色出场数据，以html文件形式保存在本地
 
 ②比较多个本地html文件，生成其交集
@@ -19,7 +20,8 @@
 
 ④比较多个本地html文件，生成补集
 
-![选项1](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgad6pusrj30lv06gdh7.jpg)
+![选项1](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgubau8j2j30ib09u769.jpg)
+
 选项1如图
 
 输入网址url —— 从网站上面把单人出场爬下来。
@@ -28,7 +30,8 @@
 
 dcdatabase将p52写为New Eart，将n52写为Prime Earth
 
-![选项2/3/4](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgakkw0cej30ve0e6whe.jpg)
+![选项2/3/4](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgucs685hj30l60a1q4m.jpg)
+
 选项2/3/4如图
 
 依次输入多个html文件名 —— 输出其交集/并集/补集。
@@ -36,6 +39,7 @@ dcdatabase将p52写为New Eart，将n52写为Prime Earth
 exe会自动列出来本地有哪些文件，复制粘贴就行，一次输入一个。可以同时多个，两个三个四个五个都行，名字随意，把它自动生成的文件名字改成其他也能打开。也可以先查超蝙同框时刻，再查超蝙同框这个文件跟其他文件的重合之处。生成文件里面点开是dcdatabase各期链接。
 
 ![生成html示范](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgalbi6itj30yw0k6gzr.jpg)
+
 生成html如图
 
 链接点进去是dcdatabase相应期数刊物的网址
