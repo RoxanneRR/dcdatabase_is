@@ -30,13 +30,15 @@
 
 dcdatabase将p52写为New Eart，将n52写为Prime Earth
 
-![选项2/3/4](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgucs685hj30l60a1q4m.jpg)
+![选项2/3](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgucs685hj30l60a1q4m.jpg)
+
+![选项4](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgupy3k6ej30ih06w3z9.jpg)
 
 选项2/3/4如图
 
 依次输入多个html文件名 —— 输出其交集/并集/补集。
 
-exe会自动列出来本地有哪些文件，复制粘贴就行，一次输入一个。可以同时多个，两个三个四个五个都行，名字随意，把它自动生成的文件名字改成其他也能打开。也可以先查超蝙同框时刻，再查超蝙同框这个文件跟其他文件的重合之处。生成文件里面点开是dcdatabase各期链接。
+exe会自动查询本地所有html文件名，将自己想要查询的html复制粘贴输入列表，一次输入一个。全部输入完成后，输入ok即可。
 
 ![生成html示范](https://tvax1.sinaimg.cn/large/008vOhrAly1hdgalbi6itj30yw0k6gzr.jpg)
 
